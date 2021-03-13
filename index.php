@@ -96,7 +96,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 			<div class="item full-width-slider" style="background-image: url(assets/images/sliders/veg.png)" >
 			</div><!-- /.item -->
 		</div><!-- /.full-width-slider -->
-
+   <!--hello-->
 	</div><!-- /.owl-carousel -->
 </div>
 			
